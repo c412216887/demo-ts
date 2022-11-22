@@ -1,0 +1,12 @@
+{
+  "name": "@demo-ts/include",
+  "version": "1.0.0",
+  "description": "验证ts配置项中include的glob规则",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
